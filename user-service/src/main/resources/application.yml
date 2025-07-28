@@ -15,7 +15,7 @@ spring:
     name: user-service
 
 server:
-  port: 8081
+  port: 8084
 eureka:
   client:
     register-with-eureka: true
